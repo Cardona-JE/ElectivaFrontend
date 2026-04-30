@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "images": [
+      "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
+    ],
+    "policies": [
+      "12-month warranty against manufacturing defects.",
+      "Returns accepted within 14 days if unused and with tags attached.",
+      "Does not cover damage from water immersion or extreme weather conditions.",
+      "Cleaning: wipe with a damp cloth and air dry; do not use bleach.",
+      "Recommended for daily urban use and light hiking (not for professional mountain use)."
+    ],
+    "features": {
+      "material": "Polyester and reinforced fabric",
+      "dimensions": "45 x 30 x 15 cm",
+      "weight": "0.6 kg",
+      "recommendedUse": "Daily commuting and light travel"
+    }
+  },
+  {
+    "id": 2,
+    "images": [
+      "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png"
+    ],
+    "policies": [
+      "Machine wash cold on delicate cycle.",
+      "Do not use bleach or tumble dry to maintain shape and color.",
+      "Exchange or return within 14 days in case of manufacturing defect.",
+      "Do not overstretch; iron at low temperature if necessary.",
+      "Recommended for casual use; sizes according to manufacturer guide."
+    ],
+    "features": {
+      "material": "Cotton",
+      "dimensions": "Regular fit",
+      "weight": "0.2 kg",
+      "recommendedUse": "Casual daily wear"
+    }
+  },
+  {
+    "id": 3,
+    "images": [
+      "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png"
+    ],
+    "policies": [
+      "6-month warranty against stitching defects.",
+      "Cleaning: wash according to label; preferably hand wash or gentle cycle.",
+      "Do not tumble dry at high temperatures; air dry to preserve padding.",
+      "Return within 14 days for incorrect size (with tags and unused).",
+      "Designed for casual outdoor use; not technical expedition gear."
+    ],
+    "features": {
+      "material": "Synthetic fabric",
+      "dimensions": "Slim fit",
+      "weight": "0.8 kg",
+      "recommendedUse": "Outdoor and winter activities"
+    }
+  },
+  {
+    "id": 4,
+    "images": [
+      "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png"
+    ],
+    "policies": [
+      "Return for manufacturing defects within 14 days.",
+      "Wash with similar colors in cold water to prevent fading.",
+      "Do not iron directly over prints or screen-printed details.",
+      "Do not use bleach or harsh solvents.",
+      "Check size guide before purchasing; slim-fit design."
+    ],
+    "features": {
+      "material": "Cotton and elastane",
+      "dimensions": "Slim fit",
+      "weight": "0.25 kg",
+      "recommendedUse": "Casual and semi-formal use"
+    }
+  },
+  {
+    "id": 5,
+    "images": [
+      "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png"
+    ],
+    "policies": [
+      "Includes authenticity certificate; store in a dry place.",
+      "Returns accepted within 7 days for defects (subject to product condition).",
+      "Do not expose to perfumes, chemicals, or water to preserve plating.",
+      "Clean with a soft dry cloth; do not use abrasive polishers.",
+      "Limited 12-month warranty against manufacturing defects."
+    ],
+    "features": {
+      "material": "Gold plated metal",
+      "dimensions": "Standard size",
+      "weight": "0.05 kg",
+      "recommendedUse": "Formal and special occasions"
+    }
+  },
+  {
+    "id": 6,
+    "images": [
+      "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png"
+    ],
+    "policies": [
+      "30-day return policy if unused and in original packaging.",
+      "Limited 12-month warranty against manufacturing defects.",
+      "Avoid contact with saltwater, perfumes, and creams that may damage plating.",
+      "Clean with a dry cloth; do not use ultrasonic cleaners without manufacturer approval.",
+      "Sold and shipped by authorized distributor; keep invoice for warranty."
+    ],
+    "features": {
+      "material": "Silver",
+      "dimensions": "Adjustable",
+      "weight": "0.04 kg",
+      "recommendedUse": "Daily and formal use"
+    }
+  },
+  {
+    "id": 7,
+    "images": [
+      "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png"
+    ],
+    "policies": [
+      "Size exchange available within 14 days if no signs of wear.",
+      "Do not expose to chemicals or strong impacts.",
+      "6-month warranty against material defects.",
+      "Clean with a soft cloth and approved polishing products if needed.",
+      "Store in case to prevent scratches and loss of shine."
+    ],
+    "features": {
+      "material": "Alloy with gold coating",
+      "dimensions": "Standard ring size",
+      "weight": "0.03 kg",
+      "recommendedUse": "Events and formal wear"
+    }
+  },
+  {
+    "id": 8,
+    "images": [
+      "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png"
+    ],
+    "policies": [
+      "Not suitable for aquatic environments; avoid water exposure.",
+      "6-month warranty for finish or clasp defects.",
+      "Returns within 14 days with original packaging.",
+      "Clean with dry cloth and store in individual case.",
+      "If allergic reaction occurs, discontinue use; distributor not responsible for individual allergies."
+    ],
+    "features": {
+      "material": "Sterling silver",
+      "dimensions": "Standard",
+      "weight": "0.02 kg",
+      "recommendedUse": "Daily and elegant style"
+    }
+  },
+  {
+    "id": 9,
+    "images": [
+      "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png"
+    ],
+    "policies": [
+      "24-month limited warranty against manufacturing defects.",
+      "Formatted in NTFS; may require reformatting for other operating systems.",
+      "Do not expose to strong impacts or high temperatures.",
+      "Backup recommended before any repair operation.",
+      "Manufacturer does not cover data loss due to misuse; use backup software."
+    ],
+    "features": {
+      "material": "Aluminum and plastic",
+      "dimensions": "2.5-inch external drive",
+      "weight": "0.25 kg",
+      "recommendedUse": "Data backup and storage"
+    }
+  },
+  {
+    "id": 10,
+    "images": [
+      "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png"
+    ],
+    "policies": [
+      "36-month warranty against manufacturing defects.",
+      "Do not disconnect during critical operations to avoid data corruption.",
+      "Enable TRIM for extended lifespan.",
+      "Professional installation recommended if unfamiliar with hardware.",
+      "Not suitable for liquid immersion; keep in dry environment."
+    ],
+    "features": {
+      "material": "Metal and silicon",
+      "dimensions": "M.2 SSD",
+      "weight": "0.08 kg",
+      "recommendedUse": "High-speed computing and gaming"
+    }
+  },
+  {
+    "id": 11,
+    "images": [
+      "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png"
+    ],
+    "policies": [
+      "36-month manufacturer warranty against defects.",
+      "Supports TRIM and optimization commands; follow manufacturer guidelines.",
+      "Do not open the unit; tampering voids warranty.",
+      "Regular backups recommended; warranty does not cover data loss.",
+      "Install in compatible equipment; verify specifications before purchase."
+    ],
+    "features": {
+      "material": "Metal and circuit components",
+      "dimensions": "2.5-inch SSD",
+      "weight": "0.09 kg",
+      "recommendedUse": "Workstations and laptops"
+    }
+  },
+  {
+    "id": 12,
+    "images": [
+      "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png"
+    ],
+    "policies": [
+      "Compatibility verified with specific consoles; check description.",
+      "24-month limited warranty.",
+      "Do not remove casing without instruction; may void warranty.",
+      "Recommended for game storage; not intended for industrial use.",
+      "Safely eject before disconnecting to avoid corruption."
+    ],
+    "features": {
+      "material": "Metal and plastic",
+      "dimensions": "2.5-inch console storage",
+      "weight": "0.23 kg",
+      "recommendedUse": "Gaming consoles"
+    }
+  },
+  {
+    "id": 13,
+    "images": [
+      "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png"
+    ],
+    "policies": [
+      "12-month warranty against factory defects.",
+      "VESA mount not included; check compatibility before purchase.",
+      "Avoid prolonged direct sunlight exposure to prevent ghosting.",
+      "Cleaning: use soft dry cloth; do not use abrasive liquids.",
+      "Recommended for office and light gaming; verify GPU specs for advanced gaming."
+    ],
+    "features": {
+      "material": "Plastic and glass panel",
+      "dimensions": "24-inch display",
+      "weight": "3.5 kg",
+      "recommendedUse": "Office and light gaming"
+    }
+  },
+  {
+    "id": 14,
+    "images": [
+      "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png"
+    ],
+    "policies": [
+      "24-month manufacturer warranty.",
+      "Recommended desk setup with sufficient space; requires compatible GPU for 144Hz ultrawide.",
+      "Do not expose to strong impacts or pressure on screen.",
+      "Configure color profile and HDR according to manual for best experience.",
+      "Official technical support available; keep invoice for warranty."
+    ],
+    "features": {
+      "material": "Aluminum and glass",
+      "dimensions": "34-inch ultrawide",
+      "weight": "5.8 kg",
+      "recommendedUse": "Gaming and productivity"
+    }
+  },
+  {
+    "id": 15,
+    "images": [
+      "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png"
+    ],
+    "policies": [
+      "Designed for cold weather; not professional high-altitude gear.",
+      "Wash according to label; professional cleaning recommended for down lining.",
+      "Return within 14 days if unused and with tags.",
+      "6-month warranty against manufacturing defects.",
+      "Do not use near fire or hot surfaces."
+    ],
+    "features": {
+      "material": "Polyester and thermal insulation",
+      "dimensions": "Regular fit",
+      "weight": "1.2 kg",
+      "recommendedUse": "Cold and snowy environments"
+    }
+  },
+  {
+    "id": 16,
+    "images": [
+      "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png"
+    ],
+    "policies": [
+      "Faux leather: clean with damp cloth and air dry; avoid strong chemicals.",
+      "Do not machine wash; may deform material.",
+      "Return for defects within 14 days if unused.",
+      "6-month limited warranty against manufacturing defects.",
+      "Avoid prolonged sun exposure to prevent discoloration."
+    ],
+    "features": {
+      "material": "Faux leather",
+      "dimensions": "Regular fit",
+      "weight": "0.95 kg",
+      "recommendedUse": "Casual and urban style"
+    }
+  },
+  {
+    "id": 17,
+    "images": [
+      "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png"
+    ],
+    "policies": [
+      "Water-resistant; do not submerge for prolonged periods.",
+      "Hand wash or gentle cycle; air dry away from direct sunlight.",
+      "6-month warranty against stitching defects.",
+      "Return within 14 days if unused and unsatisfactory.",
+      "Do not use bleach or iron directly over coated areas."
+    ],
+    "features": {
+      "material": "Waterproof polyester",
+      "dimensions": "Regular fit",
+      "weight": "0.7 kg",
+      "recommendedUse": "Rain and outdoor use"
+    }
+  },
+  {
+    "id": 18,
+    "images": [
+      "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png"
+    ],
+    "policies": [
+      "Machine wash cold on gentle cycle.",
+      "Do not use bleach; iron at low temperature if needed.",
+      "Return within 14 days with tags and no signs of wear.",
+      "3-month warranty against factory defects.",
+      "Made with delicate materials; avoid overstretching."
+    ],
+    "features": {
+      "material": "Soft cotton blend",
+      "dimensions": "Slim fit",
+      "weight": "0.18 kg",
+      "recommendedUse": "Casual and summer wear"
+    }
+  },
+  {
+    "id": 19,
+    "images": [
+      "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png"
+    ],
+    "policies": [
+      "Machine wash cold on gentle cycle.",
+      "Do not use bleach; iron at low temperature if needed.",
+      "Return within 14 days with tags and no signs of wear.",
+      "3-month warranty against factory defects.",
+      "Made with delicate materials; avoid overstretching."
+    ],
+    "features": {
+      "material": "Technical polyester",
+      "dimensions": "Athletic fit",
+      "weight": "0.2 kg",
+      "recommendedUse": "Sports and gym"
+    }
+  },
+  {
+    "id": 20,
+    "images": [
+      "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png"
+    ],
+    "policies": [
+      "Wash in cold water and dry in shade to preserve colors.",
+      "Do not use bleach; iron at low temperature if necessary.",
+      "Return within 14 days if unused and with tags.",
+      "3-month warranty against manufacturing defects.",
+      "Made with cotton-elastane blend; follow size guide."
+    ],
+    "features": {
+      "material": "Cotton and elastane",
+      "dimensions": "Regular fit",
+      "weight": "0.22 kg",
+      "recommendedUse": "Daily casual use"
+    }
+  }
+]
